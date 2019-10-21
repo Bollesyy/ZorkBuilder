@@ -1,0 +1,10 @@
+C:\Users\ma410864\source\repos\pictureviewingtut\pictureviewingtut\bin\Debug\pictureviewingtut.exe.config
+C:\Users\ma410864\source\repos\pictureviewingtut\pictureviewingtut\bin\Debug\pictureviewingtut.exe
+C:\Users\ma410864\source\repos\pictureviewingtut\pictureviewingtut\bin\Debug\pictureviewingtut.pdb
+C:\Users\ma410864\source\repos\pictureviewingtut\pictureviewingtut\obj\Debug\pictureviewingtut.csprojAssemblyReference.cache
+C:\Users\ma410864\source\repos\pictureviewingtut\pictureviewingtut\obj\Debug\pictureviewingtut.Properties.Resources.resources
+C:\Users\ma410864\source\repos\pictureviewingtut\pictureviewingtut\obj\Debug\pictureviewingtut.csproj.GenerateResource.cache
+C:\Users\ma410864\source\repos\pictureviewingtut\pictureviewingtut\obj\Debug\pictureviewingtut.csproj.CoreCompileInputs.cache
+C:\Users\ma410864\source\repos\pictureviewingtut\pictureviewingtut\obj\Debug\pictureviewingtut.exe
+C:\Users\ma410864\source\repos\pictureviewingtut\pictureviewingtut\obj\Debug\pictureviewingtut.pdb
+C:\Users\ma410864\source\repos\pictureviewingtut\pictureviewingtut\obj\Debug\pictureviewingtut.Form1.resources
